@@ -1,0 +1,7 @@
+cmc.uploadc.config.LocalFileUploadConfig
+cmc.uploadc.config.MinioConfig
+cmc.uploadc.config.ResourcesConfig
+cmc.uploadc.controller.FilecController
+cmc.uploadc.service.FastDfsSysFileServiceImpl
+cmc.uploadc.service.LocalSysFileServiceImpl
+cmc.uploadc.service.MinioSysFileServiceImpl

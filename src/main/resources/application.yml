@@ -1,0 +1,7 @@
+cmc:
+  upload:
+    path: ./upload
+    prefix: /upload
+    domain: http://localhost:${server.port}
+server:
+  port: 8888
